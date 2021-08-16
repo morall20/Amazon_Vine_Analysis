@@ -17,17 +17,20 @@ In this project, I needed to pick a dataset and use PySpark to perform the ETL p
 
 Imported the Dataset
 
-insert slide 1
+![Slide 1](https://user-images.githubusercontent.com/82338072/129496789-9758d6fc-51ec-4ed7-9b48-2007c69f84cb.PNG)
 
 Turn into a Data frame 
 
-insert slide 2
+![slide2](https://user-images.githubusercontent.com/82338072/129496795-2e4d85c8-8573-4865-b184-dca14c21ef59.PNG)
 
 filter data frame by votes and reviews
 
-insert slide 3
+![slide3](https://user-images.githubusercontent.com/82338072/129496798-e5c00612-be02-463b-974c-96a3ab335d83.PNG)
 
-talley totals
+talley the totals
 
-insert slide 4
+![slide 4](https://user-images.githubusercontent.com/82338072/129496806-c4137caa-d695-4920-9d3a-766f432c75dd.PNG)
+
+![Slide5](https://user-images.githubusercontent.com/82338072/129496808-888dcc29-fba4-42c2-bf50-86ca0ea6d24a.PNG)
+
 
