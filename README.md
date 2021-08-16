@@ -27,10 +27,11 @@ filter data frame by votes and reviews
 
 ![slide3](https://user-images.githubusercontent.com/82338072/129496798-e5c00612-be02-463b-974c-96a3ab335d83.PNG)
 
-talley the totals
+## Summary
+Talley the totals
 
 ![slide 4](https://user-images.githubusercontent.com/82338072/129496806-c4137caa-d695-4920-9d3a-766f432c75dd.PNG)
 
 ![Slide5](https://user-images.githubusercontent.com/82338072/129496808-888dcc29-fba4-42c2-bf50-86ca0ea6d24a.PNG)
 
-## Summary
+
